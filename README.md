@@ -1,4 +1,4 @@
-# Rando
+# Rando - try 1
 
 <p align="center">
       <img src="https://github.com/maxWN/rando/blob/main/Rando/Assets/random-api-icon.PNG" alt="Random API icon">
